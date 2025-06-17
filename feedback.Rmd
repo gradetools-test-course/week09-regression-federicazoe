@@ -1,0 +1,29 @@
+---
+title: 'Feedback'
+output: html_document
+---
+
+
+
+
+## question_1
+Test personalized fbk
+
+
+The correct choice was option b. $\beta_0$ is the regression intercept.
+
+
+## question_2
+
+Your solution is correct.
+
+
+## question_3a
+
+Your solution is correct.
+
+
+## question_3b
+
+Your solution is correct.
+
